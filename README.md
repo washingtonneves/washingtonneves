@@ -25,4 +25,6 @@
 ![Snake animation](https://github.com/washingtonneves/washingtonneves/blob/output/github-contribution-grid-snake.svg)
   
   Cursando, Desenvolvedor Web Front-end 🖥
+  
+  Cursando, Análise e Desenvolvimento de Sistemas 🎓 
 
